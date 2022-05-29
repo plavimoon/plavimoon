@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plavimoon
+- 👋 Hey, I’m Ante!
 - 👀 I’m interested in travelling, history and having fun. 
 - 🌱 I’m currently learning React. 
 - 💞️ I’m looking to collaborate on whatever I can actively contribute to.
